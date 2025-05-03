@@ -1,0 +1,16 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #f9fafb;
+  margin: 0;
+  padding: 0;
+}
+
+button:hover {
+  background-color: #2563eb;
+}
+
+select:focus {
+  outline: none;
+  border-color: #2563eb;
+}
